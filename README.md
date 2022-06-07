@@ -1,3 +1,7 @@
+Initial commit
+
+
+
 # Webpack Starter Kit
 
 ## Clone This Repo
